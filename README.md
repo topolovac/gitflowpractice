@@ -1,4 +1,5 @@
 # gitflowpractice
 repo for practicing git flow
 
-feature a added
+feature b added
+feature a added and tweaked
